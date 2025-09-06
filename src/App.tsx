@@ -1,9 +1,9 @@
-
+import Cover from "./FlowerButton.tsx";
 function App() {
 
   return (
     <>
-    <h1>Hello World!</h1>
+    <Cover/>
       </>
   );
 }
